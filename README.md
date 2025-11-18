@@ -1,5 +1,5 @@
 # Creating python env
-``bash
+```bash
 python3 -m venv .venv
 ```
 # Active env
