@@ -10,7 +10,7 @@ source .venv/bin/activate
 ```bash
 pip3 install matplotlib
 ```
-## Install NumPy
+## Install numpy
 ```bash
 pip3 install numpy
 ```
